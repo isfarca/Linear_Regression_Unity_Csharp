@@ -1,0 +1,12 @@
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\bin\Debug\Linear Regression.exe.config
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\bin\Debug\Linear Regression.exe
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\bin\Debug\Linear Regression.pdb
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear Regression.csprojResolveAssemblyReference.cache
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear_Regression.FormLinearRegression.resources
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear_Regression.Properties.Resources.resources
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear Regression.csproj.GenerateResource.Cache
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear Regression.csproj.CoreCompileInputs.cache
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear Regression.exe
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\obj\Debug\Linear Regression.pdb
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\bin\Debug\MathNet.Numerics.dll
+d:\Users\BM\Desktop\Linear Regression\Linear Regression\bin\Debug\MathNet.Numerics.xml
